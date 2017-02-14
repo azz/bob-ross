@@ -26,21 +26,19 @@ BobRoss.palette;
 
 ## Available Colors
 
-<div style="text-align: center">
-  <div style="padding: 12px; width: 200px; background: #0A3410; color: white">SAP_GREEN</div>
-  <div style="padding: 12px; width: 200px; background: #4E1500; color: white">ALIZARIN_CRIMSON</div>
-  <div style="padding: 12px; width: 200px; background: #221B15; color: white">VAN_DYKE_BROWN</div>
-  <div style="padding: 12px; width: 200px; background: #5F2E1F; color: white">DARK_SIENNA</div>
-  <div style="padding: 12px; width: 200px; background: #000000; color: white">MIDNIGHT_BLACK</div>
-  <div style="padding: 12px; width: 200px; background: #021E44; color: white">PRUSSIAN_BLUE</div>
-  <div style="padding: 12px; width: 200px; background: #0C0040; color: white">PHTHALO_BLUE</div>
-  <div style="padding: 12px; width: 200px; background: #102E3C; color: white">PHTHALO_GREEN</div>
-  <div style="padding: 12px; width: 200px; background: #FFEC00; color: black">CADMIUM_YELLOW</div>
-  <div style="padding: 12px; width: 200px; background: #C79B00; color: black">YELLOW_OCHRE</div>
-  <div style="padding: 12px; width: 200px; background: #FFB800; color: black">INDIAN_YELLOW</div>
-  <div style="padding: 12px; width: 200px; background: #DB0000; color: white">BRIGHT_RED</div>
-  <div style="padding: 12px; width: 200px; background: #FFFFFF; color: black">TITANIUM_WHITE</div>
-</div>
+* ![#SAP_GREEN](https://placehold.it/15/0A3410/000000?text=+) `SAP_GREEN`
+* ![#ALIZARIN_CRIMSON](https://placehold.it/15/4E1500/000000?text=+) `ALIZARIN_CRIMSON`
+* ![#VAN_DYKE_BROWN](https://placehold.it/15/221B15/000000?text=+) `VAN_DYKE_BROWN`
+* ![#DARK_SIENNA](https://placehold.it/15/5F2E1F/000000?text=+) `DARK_SIENNA`
+* ![#MIDNIGHT_BLACK](https://placehold.it/15/000000/000000?text=+) `MIDNIGHT_BLACK`
+* ![#PRUSSIAN_BLUE](https://placehold.it/15/021E44/000000?text=+) `PRUSSIAN_BLUE`
+* ![#PHTHALO_BLUE](https://placehold.it/15/0C0040/000000?text=+) `PHTHALO_BLUE`
+* ![#PHTHALO_GREEN](https://placehold.it/15/102E3C/000000?text=+) `PHTHALO_GREEN`
+* ![#CADMIUM_YELLOW](https://placehold.it/15/FFEC00/000000?text=+) `CADMIUM_YELLOW`
+* ![#YELLOW_OCHRE](https://placehold.it/15/C79B00/000000?text=+) `YELLOW_OCHRE`
+* ![#INDIAN_YELLOW](https://placehold.it/15/FFB800/000000?text=+) `INDIAN_YELLOW`
+* ![#BRIGHT_RED](https://placehold.it/15/DB0000/000000?text=+) `BRIGHT_RED`
+* ![#TITANIUM_WHITE](https://placehold.it/15/FFFFFF/000000?text=+) `TITANIUM_WHITE`
 
 [npm-package]: https://www.npmjs.com/package/bob-ross
 [ci-server]: https://travis-ci.org/DerFlatulator/bob-ross
