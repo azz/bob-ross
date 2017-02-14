@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/DerFlatulator/bob-ross.svg)][ci-server]
+[![npm version](https://badge.fury.io/js/bob-ross.svg)][npm-package]
+
 # bob-ross
 Bob Ross Color Palette
 
@@ -38,3 +41,6 @@ BobRoss.palette;
   <div style="padding: 12px; width: 200px; background: #DB0000; color: white">BRIGHT_RED</div>
   <div style="padding: 12px; width: 200px; background: #FFFFFF; color: black">TITANIUM_WHITE</div>
 </div>
+
+[npm-package]: https://www.npmjs.com/package/bob-ross
+[ci-server]: https://travis-ci.org/DerFlatulator/bob-ross
