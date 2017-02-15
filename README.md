@@ -1,7 +1,8 @@
 [![Build Status](https://travis-ci.org/DerFlatulator/bob-ross.svg)][ci-server]
 [![npm version](https://badge.fury.io/js/bob-ross.svg)][npm-package]
 
-# bob-ross
+# bob-ross ![bob-ross](/bob.png) 
+
 Bob Ross Color Palette
 
 ## Install
