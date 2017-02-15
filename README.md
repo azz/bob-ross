@@ -4,9 +4,9 @@
 # bob-ross
 Bob Ross Color Palette
 
-Inspired by [this blog](http://thomaspark.co/2015/11/bob-ross-color-palette-in-css/).
-
 ## Install
+
+_Just a little, don't need much._
 
 ```bash
 npm install --save bob-ross
@@ -24,7 +24,11 @@ BobRoss.colors.YELLOW_OCHRE; // ==> '#C79B00'
 BobRoss.palette;
 ```
 
+_Just like that._
+
 ## Available Colors
+
+_Now we'll just roll the colors we're going to use today along the screen..._
 
 * ![#SAP_GREEN](https://placehold.it/15/0A3410/000000?text=+) `SAP_GREEN`
 * ![#ALIZARIN_CRIMSON](https://placehold.it/15/4E1500/000000?text=+) `ALIZARIN_CRIMSON`
@@ -39,6 +43,14 @@ BobRoss.palette;
 * ![#INDIAN_YELLOW](https://placehold.it/15/FFB800/000000?text=+) `INDIAN_YELLOW`
 * ![#BRIGHT_RED](https://placehold.it/15/DB0000/000000?text=+) `BRIGHT_RED`
 * ![#TITANIUM_WHITE](https://placehold.it/15/FFFFFF/000000?text=+) `TITANIUM_WHITE`
+
+## Contributing
+
+Feel free to beat the devil out of it!
+
+------------
+
+Inspired by [this blog](http://thomaspark.co/2015/11/bob-ross-color-palette-in-css/).
 
 [npm-package]: https://www.npmjs.com/package/bob-ross
 [ci-server]: https://travis-ci.org/DerFlatulator/bob-ross
