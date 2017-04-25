@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/DerFlatulator/bob-ross.svg)][ci-server]
+[![Build Status](https://travis-ci.org/azz/bob-ross.svg)][ci-server]
 [![npm version](https://badge.fury.io/js/bob-ross.svg)][npm-package]
 
 # bob-ross ![bob-ross](/bob.png) 
@@ -54,4 +54,4 @@ Feel free to beat the devil out of it!
 Inspired by [this blog](http://thomaspark.co/2015/11/bob-ross-color-palette-in-css/).
 
 [npm-package]: https://www.npmjs.com/package/bob-ross
-[ci-server]: https://travis-ci.org/DerFlatulator/bob-ross
+[ci-server]: https://travis-ci.org/azz/bob-ross
