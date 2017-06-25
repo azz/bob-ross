@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DerFlatulator/bob-ross.git"
+    "url": "git+https://github.com/azz/bob-ross.git"
   },
   "keywords": [
     "Bob",
@@ -19,7 +19,7 @@
   "author": "Lucas Azzola <Lucas.Azzola@iress.com.au>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DerFlatulator/bob-ross/issues"
+    "url": "https://github.com/azz/bob-ross/issues"
   },
-  "homepage": "https://github.com/DerFlatulator/bob-ross#readme"
+  "homepage": "https://github.com/azz/bob-ross#readme"
 }
